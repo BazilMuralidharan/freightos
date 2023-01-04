@@ -1,0 +1,2 @@
+# freightos
+Created with CodeSandbox
